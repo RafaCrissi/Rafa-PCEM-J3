@@ -1,4 +1,4 @@
-h1{CONFIGURARTE
+#titulo {CONFIGURARTE
     text-align: center;
     font-size: 30px;
     color: rgb(162, 20, 20)
@@ -7,7 +7,7 @@ h1{CONFIGURARTE
 }
 
 
-p {PRODUÇÕES EM ARTE
+.titulo {PRODUÇÕES EM ARTE
     text-align: center;
     color: red;
     font-size: 20px;
