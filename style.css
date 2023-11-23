@@ -1,9 +1,12 @@
-#titulo  {CONFIGURARTE
+body {
+    background-color:#FFC0CB;
+}
+#titulo  {
     text-align: center;
     font-size: 30px;
-    color: rgb(162, 20, 20)
+    color: rgb(162, 20, 77)
 }
-.titulo {PRODUÇÕES EM ARTE
+.titulo {
     text-align: center;
     color: red;
     font-size: 20px;
@@ -11,9 +14,9 @@
          body {
     background-color:#FFC0CB;
 }
-#banner {arte
-    width: 20%;
-    margin:10px;
+#banner {
+    width: 50%;
+    margin:20px;
     padding: 5px;
 }
 #titulo{
@@ -25,4 +28,9 @@
     text-align: center;
     color: rgb(188, 10, 108);
     font-size: 20px;
+}
+.titulo{
+    text-align:center;
+    background-image: linear-gradient(#FF00FF,#DA70D6);
+    color:#C71585 ;
 }
