@@ -3,7 +3,6 @@
     font-size: 30px;
     color: rgb(162, 20, 20)
     
-
 }
          
 .titulo {PRODUÇÕES EM ARTE
@@ -11,15 +10,14 @@
     color: red;
     font-size: 20px;
 }
-
          body {
 
     background-color:#FFC0CB;
 }
 #banner {arte
-    width: 70%;
-    margin:20px;
-    padding: 5px;
+    width: 80%;
+    margin:30px;
+    padding: 7px;
 }
 
 
