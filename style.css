@@ -2,9 +2,7 @@
     text-align: center;
     font-size: 30px;
     color: rgb(162, 20, 20)
-    
 }
-         
 .titulo {PRODUÇÕES EM ARTE
     text-align: center;
     color: red;
@@ -14,11 +12,10 @@
     background-color:#FFC0CB;
 }
 #banner {arte
-    width: 40%;
-    margin:20px;
+    width: 20%;
+    margin:10px;
     padding: 5px;
 }
-
 #titulo{
     text-align: center;
     font-size: 30px;
