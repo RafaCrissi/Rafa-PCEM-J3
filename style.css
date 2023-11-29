@@ -1,6 +1,6 @@
 body {
 
-    background-color:#c0fff2;
+    background-color:#c0ffe6;
 }
 #banner {
     width: 50%;
@@ -10,23 +10,23 @@ body {
 #titulo{
     text-align: center;
     font-size: 30px;
-    color: rgb(29, 3, 63);
+    color: rgb(23, 3, 63);
 }
 .texto {
     text-align: center;
-    color: rgb(10, 138, 188);
+    color: rgb(37, 10, 188);
     font-size: 20px;
 }
 .titulo{
     text-align:center;
-    color:#3c15c7 ;
+    color:#1521c7 ;
 }
 header{
     padding: 10px;
-    background-color:#00ffff;
+    background-color:#00f2ff;
     border-bottom: 2px solid black;
     font-size: 20px;
-    color:rgb(31, 3, 63);
+    color:rgb(10, 3, 63);
     display: flex;
     justify-content: space-around;
     
@@ -35,16 +35,12 @@ header{
     width:10%;
     height: 10%;
     padding: 5px;
-<<<<<<< HEAD
-    background-color: #00f7ff;
-=======
-    background-color: #00ffb3;
->
+    background-color: #00ffff;
     margin: 20px;
     border-radius: 10px;
 }
 .lista {
-   color: rgb(10, 78, 188);
+   color: rgb(10, 143, 188);
 
 }
 .cabecalho-item {
